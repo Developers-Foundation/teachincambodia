@@ -1,5 +1,5 @@
 # Teach In Cambodia
-Teach in Cambodia webpage, found [here.](https://www.teachincambodia.org)
+Teach in Cambodia webpage, found [here.](https://teachincambodia.org)
 ## About
 The Teach In Cambodia website is the central hub for all information regarding teaching in Cambodia.
 It provides tips on how to travel to Cambodia, visa requirements, a survival guide, etc.
