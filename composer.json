@@ -1,0 +1,21 @@
+{
+  "name": "developersfoundation/blank",
+  "description": "Teach In Cambodia",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Queen's Chapter - MS",
+      "email": "michaelsakamoto@developersfoundation.ca"
+    }
+  ],
+
+  "require-dev" : {
+    "heroku/heroku-buildpack-php": "*"
+  },
+
+  "require": {
+    "ext-memcached": "*",
+    "sendgrid/sendgrid": "4.0.4"
+  }
+}
